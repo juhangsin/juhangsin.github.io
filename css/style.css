@@ -1,0 +1,64 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+}
+body, ul, ol, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+/* Fonts */
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav, footer {
+  background-color: #017b89;
+}
+
+/* Layout */
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%
+}
+
+main {
+  flex: 1;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  padding: 30px 0;
+  justify-content: right;
+}
+
+nav li {
+  padding: 0 10px;
+}
+
+nav li:first-child {
+  flex: 1;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  padding: 30px 0;
+  justify-content: right;
+}
