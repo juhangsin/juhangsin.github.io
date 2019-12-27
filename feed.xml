@@ -1,0 +1,32 @@
+---
+layout: null
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Ju Hang Sin</title>
+  <link type="application/atom+xml" rel="self" href="https://www.juhangsin.net/feed.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>https://www.juhangsin.net/</id>
+  <author>
+    <name>Ju Hang Sin</name>
+    <email>juhangsin@gmail.com</email>
+  </author>
+
+  {% for post in site.posts limit:20 %}
+  {% unless post.draft %}
+  <entry>
+    <id>http://www.juhangsin.net{{ post.url }}</id>
+    <link type="text/html" rel="alternate" href="https://www.juhangsin.net{{ post.url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Ju Hang Sin</name>
+      <email>juhangsin@gmail.com</email>
+    </author>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endunless %}
+  {% endfor %}
+
+</feed>
