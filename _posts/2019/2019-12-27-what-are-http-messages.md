@@ -1,6 +1,6 @@
 ---
-title: "Learning http messages"
-date: "2019-12-27 11:40:00 UTC"
+title: "What Are HTTP Messages"
+date: "2020-01-01 16:00:00 UTC"
 tags:
   - "http messages"
   - "http requests"
@@ -9,7 +9,7 @@ tags:
 ---
 
 I worked as a frontend web dev for the past 2 years, that means that I'm only playing around with the data that was already provided to me.
-2 months ago, my friend has offered me a contract at his company as a backend dev, and my first task was working on an [authenication server](https://github.com/curveball/a12n-server) for the open-source project [framework](https://github.com/curveball) the team is building. When I was a frontend dev,these data was just there for me, "magically", waiting for me to use them, but now I have to build them from scratch.
+2 months ago, my friend has offered me a contract at his company as a backend dev, and my first task was working on an [authenication server](https://github.com/curveball/a12n-server) for an open-source project [framework](https://github.com/curveball) the team is building. When I was a frontend dev, these data was just there for me, "magically", waiting for me to use them, but now I have to build them from scratch.
 This post is about what I've learned about HTTP messages.
 
 ## Overview of HTTP messages

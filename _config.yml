@@ -1,0 +1,24 @@
+highlighter: rouge
+safe: true
+lsi: false
+permalink: "/:title/"
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+
+lsi: false
+
+future: false
+
+excerpt_separator: <!--more-->
+
+include:
+  - .well-known
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
