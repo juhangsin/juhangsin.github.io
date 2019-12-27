@@ -7,6 +7,8 @@ kramdown:
     input: GFM
     hard_wrap: false
 
+theme: minima
+
 lsi: false
 
 future: false
@@ -16,9 +18,3 @@ excerpt_separator: <!--more-->
 include:
   - .well-known
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
