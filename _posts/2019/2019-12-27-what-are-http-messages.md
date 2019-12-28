@@ -29,7 +29,7 @@ Usually when you're requesting certain data, it will add queries to the URL.
 ie. https://www.examples.com/articles/5
 From the example above, after `examples.com/`, it's asking to get the data from article, then asks again to get `5`.
 
-### 3.HTTP Headers
+### 3. HTTP Headers
 HTTP Headers consists:
 1. General headers
 2. Request headers
@@ -37,28 +37,28 @@ HTTP Headers consists:
 I believe that these are data about the client's current browser setup.
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages"><img src="https://media.prod.mdn.mozit.cloud/attachments/2016/08/31/13821/6f88b7d65091c3afafa8e3c04fdc1186/HTTP_Request_Headers2.png" style="max-width: 100%"></a>
 
-### 4.Body (Optional)
+### 4. Body (Optional)
 When requests are fetching resources, like `GET`, `HEAD`, `DELETE` or `OPTION`, usually don't need a body. Method like `POST` sends data to the server in order to update it.
 
 ## HTTP Responses
 After you request for you will get the response from the server. HTTP Responses are consists of following elements
 
-### 1.Status Code
+### 1. Status Code
 You'll get back HTTP status code indicating if the request client sent to the server was a success or failed. There are many different status codes for different cases. I'm not gonna write about them since friend of mine did a post of most of [HTTP status codes](https://evertpot.com/http/).
 
-### 2.Status Message
+### 2. Status Message
 Status mesasges are usally all tied with what the status code was, and when status code is just a number, status mesasge gives you human readable words for easier understanding of what the status code meant.
 
 * One thing I learened about this as a junior dev though, I always thought this was magically done by the browser, but when I was working on the project, I learned that developer needs to decide which status code to throw depends on the return value you get.
 
-### 2.Headers
+### 3. Headers
 Just like reqeusts headers, there are many different headers available that can be divided into several groups:
 1. General headers
 2. Response headers
 3. Entity headers
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages"><img src="https://media.prod.mdn.mozit.cloud/attachments/2016/08/31/13823/0a5a12cef96993c8d6fa843d7230a9d9/HTTP_Response_Headers2.png" style="max-width: 100%"></a>
 
-### 3.Body (Optional)
+### 4. Body (Optional)
 Also not all responses have one, usually if it's a status code with `201` or `204` etc won't have one.
 
 ## What did I learn so far?
