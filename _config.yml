@@ -8,7 +8,7 @@ kramdown:
     input: GFM
     hard_wrap: false
 
-theme: midnight
+theme: jekyll-theme-slate
 
 lsi: false
 
