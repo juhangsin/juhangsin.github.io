@@ -4,6 +4,8 @@ safe: true
 lsi: false
 permalink: "/:title/"
 
+google_analytics: UA-155003425-1
+
 kramdown:
     input: GFM
     hard_wrap: false
