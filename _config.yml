@@ -10,7 +10,7 @@ kramdown:
     input: GFM
     hard_wrap: false
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-modernist
 
 lsi: false
 
