@@ -18,10 +18,10 @@ Experience
 * Bad Gateway is a software development agency in Toronto. We build Web Applications and APIs for clients.
 
 ### Tasks
-* Worked on variety of functionalities for Authentication Server. [Curveball](https://github.com/curveball/a12n-server) framework. 
+* Worked on variety of functionalities for Authentication Server [Curveball](https://github.com/curveball/a12n-server) micro-framework. 
 * Integrating Node.js service with MySQL
-* 
-
+* Building API driven applications using Node.js, Typescript, MySQL
+* Developed a prototypical application for a new product offering
 
 ## Frontend Web Developer at ResortSuite Toronto, Canada, Apr/2018 – Nov/2019
 * ResortSuite is an enterprise grade integrated software application for the hospitality industry.
