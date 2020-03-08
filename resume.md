@@ -35,8 +35,8 @@ Node.JS, Typescript, Javascript, ES6/ES7, REST API, MySql, HAL, HTML, CSS, OAuth
 * Applying new features & enhancement to the core web / mobile app for new version release.
 * Develop mobile applications using the Cordova framework.
 
-#### Tech Sack
-ES5, React, Cordova, Oracle, MongoDB, SOAP API, HTML, CSS
+#### Tech Stack
+Javascript, ES5, React, Cordova, MongoDB, SOAP API, HTML, CSS, Sketch
 
 
 ## Junior Web Developer at Maestro PMS Markham, Ontario, Nov/2017 – Apr/2018
