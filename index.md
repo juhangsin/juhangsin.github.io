@@ -17,6 +17,13 @@ Currently, I work at a Toronto-based software development agency called [Bad Gat
 
 If you're interested in seeing my experience, here's my [Resume](/resume.html)
 
+<ul>
+  <li>Twitter : <a href="https://twitter.com/juhangsin" rel="me">@juhangsin</a></li>
+  <li>Github : <a href="https://github.com/juhangsin" rel="me">juhangsin</a></li>
+  <li><a href="/subscribe">Subscribe to my blog</a></li>
+</ul>
+
+
 ## Archive
 
 {% for post in site.posts %}
