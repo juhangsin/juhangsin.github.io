@@ -5,7 +5,7 @@ title: Ju's Home!
 
 # Ju's Home!
 
-<div class="ju-pic" float="right" margin-left="10px">
+<div class="ju-pic" style="float: right; margin-left:10px;">
   <img src="https://avatars3.githubusercontent.com/u/28197089?s=460&v=4" width="200" height="200" alt="Ju drinking coffee">
 </div>
 
