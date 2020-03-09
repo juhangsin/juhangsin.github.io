@@ -10,7 +10,7 @@ kramdown:
     input: GFM
     hard_wrap: false
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 lsi: false
 
