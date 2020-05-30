@@ -27,14 +27,14 @@ My opinion with bootcamps are you can't learn everything, they teach you 'real-l
 Our cohort started with 40 people, only 15-20 finished the program, and as far as I know, only 30% got a job in tech.
 Most important thing I realized was you need to be dedicated to continue learning concepts you've been taught. And most importantly, just keep coding.
 
-## How I land my first job!
+## How I landed my first job!
 I finished bootcamp, and now I had to find a job. Yes, there are thousands of tech jobs around, but think about it this way. University students will also be applying for jobs that you're applying. They have 4+ years of experience, you? 3 months.. Why the hell would they hire you instead of fresh university grads? So I had to put in the work.
 
 During this time, I had created 3 [Ruby On Rails](https://rubyonrails.org/) apps, 2 JavaScript apps, and many HTML & CSS static web pages to keeping my skills up to date.
 
 This is the important part, my girlfriend told me about how to apply for jobs & how to keep track of them all.
 
-USE SPREADSHEET WITH WHERE YOU APPLIED!!! This is extremely important and I know not many people really does this. If the hiring manager receives 2 resumes from you, there's no way this person will call you back. This shows your management skills & it shows you're not an attention-to-detail person.
+USE A SPREADSHEET WITH WHERE YOU APPLIED!!! This is extremely important and I don't know many people really does this. If the hiring manager receives 2 resumes from you, there's no way this person will call you back. This shows your time-management skills & shows you're not an attention-to-detail person.
 I was applying about 5-10 jobs per day, with personalized emails, calling them after 24 hours if I really wanted that job (I did hear pros & cons about this method though. So best would be going out for coffee with someone at the company, and ask them if that would be a good idea).
 I had about 10 interviews, bombed most of them since I was so nervous. One of my early interviews, I even tripped on simple CSS question. It definitely gets easier though and interview questions were getting repetitive.
 
