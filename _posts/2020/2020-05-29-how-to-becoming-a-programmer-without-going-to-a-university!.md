@@ -27,7 +27,7 @@ My opinion with bootcamps are you can't learn everything, they teach you 'real-l
 Our cohort started with 40 people, only 15-20 finished the program, and as far as I know, only 30% got a job in tech.
 Most important thing I realized was you need to be dedicated to continue learning concepts you've been taught. And most importantly, just keep coding.
 
-## How I landed my first job!
+## How I land my first job!
 I finished bootcamp, and now I had to find a job. Yes, there are thousands of tech jobs around, but think about it this way. University students will also be applying for jobs that you're applying. They have 4+ years of experience, you? 3 months.. Why the hell would they hire you instead of fresh university grads? So I had to put in the work.
 
 During this time, I had created 3 ([Ruby On Rails](https://rubyonrails.org/)) apps, 2 JavaScript apps, and many HTML & CSS static web pages to keeping my skills up to date.
