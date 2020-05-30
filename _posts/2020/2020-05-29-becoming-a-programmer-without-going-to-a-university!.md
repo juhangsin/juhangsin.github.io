@@ -10,7 +10,7 @@ tags:
   - "University"
 ---
 
-# Become a programmer without going to a university!
+# Becoming a programmer without going to a university!
 2 years ago, I got my first job as a programmer. I always thought becoming a programmer, you'd have to have either Comp Sci or Comp Eng degree. But I did it without it with a little help (maybe more than a little) from my friends.
 
 ## Life before programming
