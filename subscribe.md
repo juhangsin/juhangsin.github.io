@@ -13,7 +13,7 @@ The Atom Feed
 
 The Atom feed is located at:
 
-<https://www.juhangsin.net/feed.xml>
+<https://www.juhangsin.dev/feed.xml>
 
 If you are not familiar with Atom (or RSS), it's a simple XML format that
 has lists recent updates and it's actually supported in many, many websites.
