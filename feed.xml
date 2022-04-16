@@ -6,9 +6,9 @@ permalink: "/feed.xml"
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Ju Hang Sin</title>
-  <link type="application/atom+xml" rel="self" href="https://www.juhangsin.net/feed.xml"/>
+  <link type="application/atom+xml" rel="self" href="https://www.juhangsin.dev/feed.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>https://www.juhangsin.net/</id>
+  <id>https://www.juhangsin.dev/</id>
   <author>
     <name>Ju Hang Sin</name>
     <email>juhangsin@gmail.com</email>
@@ -17,8 +17,8 @@ permalink: "/feed.xml"
   {% for post in site.posts limit:20 %}
   {% unless post.draft %}
   <entry>
-    <id>http://www.juhangsin.net{{ post.url }}</id>
-    <link type="text/html" rel="alternate" href="https://www.juhangsin.net{{ post.url }}"/>
+    <id>http://www.juhangsin.dev{{ post.url }}</id>
+    <link type="text/html" rel="alternate" href="https://www.juhangsin.dev{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>

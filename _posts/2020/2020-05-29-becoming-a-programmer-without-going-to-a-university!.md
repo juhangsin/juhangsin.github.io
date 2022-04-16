@@ -30,7 +30,7 @@ Most important thing I realized was you need to be dedicated to continue learnin
 ## How I landed my first job!
 I finished bootcamp, and now I had to find a job. Yes, there are thousands of tech jobs around, but think about it this way. University students will also be applying for jobs that you're applying. They have 4+ years of experience, you? 3 months.. Why the hell would they hire you instead of fresh university grads? So I had to put in the work.
 
-During this time, I had created 3 [Ruby On Rails](https://rubyonrails.org/) apps, 2 JavaScript apps, and many HTML & CSS static web pages to keeping my skills up to date.
+During this time, I had created 3 [Ruby On Rails](https://rubyonrails.org/) apps, 2 JavaScript apps, and many HTML & CSS static web pages to keep my skills up to date.
 
 This is the important part, my girlfriend told me about how to apply for jobs & how to keep track of them all.
 

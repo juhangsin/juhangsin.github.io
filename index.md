@@ -10,7 +10,7 @@ title: Ju's Home!
 </div>
 
 
-My name is Ju-Hang Sin, I'm a [programmer](https://github.com/juhangsin). I've been programming for the past 2 years. 1.5 years as a frontend developer, and 6 months as a backend API developer.
+My name is Ju Hang Sin, I'm a [programmer](https://github.com/juhangsin). I've been programming for the past 2 years. 1.5 years as a frontend developer, and 6 months as a backend API developer.
 
 
 Currently, I work at a Toronto-based software development agency called [Bad Gateway](https://badgateway.net/) as a software developer. We specialize in building APIs and web applications for clients.
